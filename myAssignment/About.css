@@ -1,0 +1,15 @@
+
+/* Two  image containers (use 50% for both the images,) */
+.column {
+  float: left;
+  width: 40%;
+  padding: 10px;
+  margin-left: 50%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
