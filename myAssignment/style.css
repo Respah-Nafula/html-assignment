@@ -2,8 +2,27 @@ nav li{
     list-style: none;
     float: right;
     padding-left: 10px;
+    display:inline;
     
-}
-a{
-    text-decoration: none;
-}
+
+    
+ }
+ a{
+  text-decoration: none;
+ }
+ li{
+ list-style: none;
+ float:right
+ display-inline;
+ padding:left 10px ;
+ 
+ 
+ }
+ 
+ .mee li{
+    display:flex;
+    float: right;
+   padding: 30px;
+   display: flex;
+
+ }

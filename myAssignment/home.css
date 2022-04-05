@@ -58,4 +58,29 @@
       clear: both;
       display: table;
     }
-    
+    nav li{
+      list-style: none;
+      float: right;
+      padding-left: 10px;
+      display:inline;
+      
+   }
+
+
+   li{
+   list-style: none;
+   float:right
+   display-inline;
+   padding:left 30px ;
+   text-decoration: none;
+   }
+   
+   .mee li{
+      display:flex;
+      text-align: right;
+      float: right;
+     padding: 30px;
+     text-align: left;
+     display: inline;
+   }
+
